@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "required": ["modelsVersion"],
+    "properties": {
+        "modelsVersion": {
+             "type": "string",
+              "pattern": "\\A(\\d\\.){2}.*\\Z"
+
+        }
+    }
+}

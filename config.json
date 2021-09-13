@@ -1,0 +1,12 @@
+{ "urls_with_model_version": {
+    "dh1": "https://dh1.efir-net.ru/v2/system/ping",
+    "dh2": "https://dh2.efir-net.ru/v2/system/ping",
+    "addin": "https://addin.efir-net.ru/v2/system/ping"
+  },
+  "urls_with_model_package": {
+    "prgt": "http://ef-proget.devel.ifx/nuget/Datahub/package/Efir.DataHub.Models"
+  },
+  "file_path_for_save_download_history": "./downloaded_models.txt",
+  "dh_api_scheme": "./dh-response-scheme.json",
+  "folder_for_package_save": "/absolute/path/to/folder"
+}
